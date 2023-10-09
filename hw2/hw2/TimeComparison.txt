@@ -1,0 +1,14 @@
+Circle: 
+ Gpu time: 1.220427 
+ CPU time: 0.002228 
+ Diffenece: 1.218199 
+
+Edge: 
+ Gpu time: 1.170065 
+ CPU time: 0.001422 
+ Diffenece: 1.168643 
+
+Line: 
+ Gpu time: 1.199437 
+ CPU time: 0.006074 
+ Diffenece: 1.193363 
